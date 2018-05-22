@@ -20,7 +20,7 @@ export default {
 
 <style>
 .fullscreen {
-  height: 100vh;
+  height: calc(100vh - 64px - 32px);
   position: relative;
 }
 </style>
