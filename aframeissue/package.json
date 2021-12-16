@@ -13,7 +13,7 @@
   "dependencies": {
     "aframe": "^0.8.2",
     "nuxt": "^1.0.0",
-    "vuetify": "^1.0.0"
+    "vuetify": "^1.5.24"
   },
   "devDependencies": {
     "babel-eslint": "^7.2.3",
