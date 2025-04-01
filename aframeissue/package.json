@@ -11,7 +11,7 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
-    "aframe": "^0.8.2",
+    "aframe": "^0.9.2",
     "nuxt": "^1.0.0",
     "vuetify": "^1.0.0"
   },
